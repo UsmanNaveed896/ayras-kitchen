@@ -1,0 +1,54 @@
+.about-main-div {
+   padding-top: 50px;
+}
+.about-main-div h1 {
+   text-align: center;
+   font-size: 6rem;
+   font-family: Courier New;
+   color:rebeccapurple;
+   font-weight: bold;
+}
+.about-main-div .about-inner{
+    display: flex;
+}
+.column-one{
+   padding:0;
+}
+
+.about-main-div .about-inner .column-two{
+   /* flex: 1; */
+   background-color: gray;
+ }
+ .about-main-div .content-column-2{
+    padding: 80px 10px 0px 80px;
+  }
+  img.deliciousfoood {
+   width: 100%;
+}
+.member {
+   padding:20px 30px 20px 30px;
+   border-radius: 20px;
+   background-color: #dc3545;
+   border:#dc3545;
+   color: #f4f4f4;
+   font-family: Courier New;
+   font-weight: bold;
+   font-size: 1.4rem;
+}
+.member:hover{
+   background-color: darkred;
+}
+.our-membership{
+   margin-top: 2rem;
+   text-align: center;
+}
+.member a{
+   padding:20px 30px 20px 30px;
+   border-radius: 20px;
+   background-color: #dc3545;
+   border:#dc3545;
+   color: #f4f4f4;
+   font-family: Courier New;
+   font-weight: bold;
+   font-size: 1.4rem;
+}
